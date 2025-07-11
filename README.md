@@ -1,1 +1,1 @@
-# quiz-by-zeeshan
+# quiz zeeshan
